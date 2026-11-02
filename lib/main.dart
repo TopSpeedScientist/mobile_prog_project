@@ -11,6 +11,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xFFded7c8),
       appBar: AppBar(
         title: Row(
           children: [
